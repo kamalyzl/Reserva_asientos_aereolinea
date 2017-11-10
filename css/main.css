@@ -1,4 +1,17 @@
 .first_class {
-    width: 10px;
-    height: 10px;
+    background: purple;
+}
+
+.economic_class {
+    background: yellow;
+}
+
+.seats {
+    
+    border: 1px solid black; 
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    
+    
 }
