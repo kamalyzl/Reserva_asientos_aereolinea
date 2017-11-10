@@ -28,9 +28,9 @@ var paintSeats = function (array) {
     //que seria del indice 0 al indice 3, los vamos a representar de 
     //
     if (i < 4) {
-      seat.style.background = 'purple';
+      seat.style.background = '#b5fce4';
     } else {
-      seat.style.background = 'yellow';
+      seat.style.background = '#fdd5aa';
     }
     containerSeats.appendChild(seat);
   }
